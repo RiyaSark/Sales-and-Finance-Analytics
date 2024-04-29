@@ -29,7 +29,7 @@ It aims to enhance sales and net gross margins. The project's goal is to generat
 <li>P&L yearly</li>
 <li>P&L Monthly</li>
 <li>P&L Market</li>
-<li>GM% Quartely</li>
+<li>GM% Quarterly</li>
 </ul>
 
 <b>Note:</b>
